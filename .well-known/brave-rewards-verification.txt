@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sidhantnagpal.github.io
+Token: b69cab564a8e2c4927c538156a5944feee88d3d2a03749342cf973ff1dd2698e

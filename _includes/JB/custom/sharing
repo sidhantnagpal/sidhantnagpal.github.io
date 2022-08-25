@@ -1,0 +1,12 @@
+<!-- LinkedIn -->
+<span style="float:right">
+   <script type="IN/Share"></script>
+</span>
+
+<!-- Space -->
+<span style="float:right">&nbsp;</span>
+
+<!-- Twitter -->
+<span style="float:right">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-via="{{ site.JB.sharing.twitter.via }}" data-related="{{ site.author.twitter }}" data-count="{{ site.JB.sharing.twitter.count }}" data-size="{{ site.JB.sharing.twitter.size }}">Tweet</a>
+</span>
